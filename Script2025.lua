@@ -6,8 +6,8 @@
 ‎local execute = loadstring(response)
 ‎
 ‎if execute then
-‎print("SpawnerDupes Final loaded successfully!")
-‎execute()
+‎    print("SpawnerDupes Final loaded successfully!")
+‎    execute()
 ‎else
-‎warn("Failed to load SpawnerDupes script.")
+‎    warn("Failed to load SpawnerDupes script.")
 ‎end
